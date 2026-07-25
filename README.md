@@ -2,7 +2,7 @@
 
 Here i have created a python django program where:
 - Weather can be searched and in which city
-    -City name, temperature, humidity, wind speed and weather condition
+   - City name, temperature, humidity, wind speed and weather condition
 - Currency can be searched on which country you wanna see the exchange rate
 - Results can be saved and viewed later (saved in JSON file)
 
